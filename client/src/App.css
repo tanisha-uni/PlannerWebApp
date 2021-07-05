@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  height: 100rem;
+  /* justify-content: space-evenly; */
+}
+.box1{
+  width: 20%;
+  height: 100%;
+  background-color: teal;
+}
+
+.taskPanel{
+  height: 100%;
+  background-color: lavender;
+}
+
+.box2{
+  height: 100%;
+  width: 30%;
+  background-color: aquamarine;
+}
